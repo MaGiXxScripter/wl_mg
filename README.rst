@@ -11,7 +11,7 @@ Installing
 
 .. code-block:: bash
 
-    pip install example-publish-pypi-medium
+    pip install wl_mg
 
 Usage
 =====
